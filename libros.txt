@@ -1,0 +1,4 @@
+00001;lala;los;true;01;istoria
+001;lalo;pancho;false;historia;Aventuras
+011;lala;lopez;false;02;Historia
+12121;dszdfsdf;sqwqwe;true;01;Historia
